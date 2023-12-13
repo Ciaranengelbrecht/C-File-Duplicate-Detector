@@ -33,7 +33,7 @@ Command-line Options:
 -a: Includes hidden files.
 -A: Exits after attempting advanced features.
 -l: Lists all duplicate files found.
--q: Quietly tests if any duplicates exist.
+-q: Quietly tests if any duplicates exist. 
 -f filename: Searches for duplicates of a specific file.
 -h hash: Searches for duplicates of a specific hash.
 Hashing:
